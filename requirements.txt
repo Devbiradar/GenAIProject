@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+chromadb
+streamlit
+spacy
+python-dotenv
+pandas
+numpy
+
+google-generativeai
+fpdf
